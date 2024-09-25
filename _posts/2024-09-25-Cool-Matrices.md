@@ -43,7 +43,7 @@ We are only given a zip file for this challenge.
 
     This was easily found out by just observing for red color cells in the excel.
 
-    !()[../../../../assets/cool-matrices-4.png]
+    ![](../../../../assets/cool-matrices-4.png)
 
 + Now as `matrix2.txt` contains data that has already been operated on.
 
